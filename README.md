@@ -1,4 +1,4 @@
-![auth](https://github.com/JalalAliyev/E-state/assets/68613787/f6ea3989-aaa7-448f-b2f6-6a378750f6fe)# a REST API with Node.js, Mongoose & TypeScript
+# a REST API with Node.js, Mongoose & TypeScript
 Note : Make sure you add .env variables before clonning repository. You will also want to generate new public & private keys inside config/default.ts
 
 #### Generate new keys: https://travistidwell.com/jsencrypt/demo/
